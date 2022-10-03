@@ -1,0 +1,51 @@
+body {
+  
+    background-image: url(https://www.musictruth.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-11-at-9.55.01-AM.jpg);
+  }
+  
+  h1, p {
+    font-family: Japanese, sans-serif;
+    color: white;
+    margin: 1em auto;
+    text-align: center;
+    width: 500px;
+   background-image: linear-gradient(to right, #1b069e , #230124, #1b069e);
+  }
+  
+  #description {
+    font-weight: bold;
+  }
+  
+  form {
+    font-family: Japanese, sans-serif;
+    background-image: url(http://creativeloads.com/foto/black-polygonal-texture-289.jpg);
+    color: rgb(255, 255, 255);
+    width: 60vw;
+      max-width: 500px;
+      min-width: 300px;
+      margin: 0 auto;
+  }
+  
+  input, select {
+    margin: 7 0 15 0;
+      width: 100%;
+    min-height: 2em;
+    color: white;
+    background-color: black;
+    border-image: linear-gradient(to right, #1b069e , #230124, #1b069e) 1;
+  }
+  
+  .inline {
+     width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+  
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  fieldset {
+    border-style: none;
+  }
